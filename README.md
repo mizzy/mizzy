@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-![mizzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizzy&hide=["contribs", "issues"])
+![mizzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizzy&hide=["contribs","issues"])
